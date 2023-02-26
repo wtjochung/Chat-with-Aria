@@ -3,7 +3,7 @@
 Feeling lonely? Want to discover fun websites? You can always chat with Aria!
 Chat With Aria is an Android application created for a private client, programmed using Java through Android Studio. 
 
-# Features
+### Features
 Change username
 
 
@@ -16,9 +16,12 @@ Dark Mode
 Tutorial
 
 
-Process
+### Process
 
-UI design
+Client requirements
+
+
+UI design & prototyping
 
 
 
@@ -26,6 +29,6 @@ Programming
 
 
 
-
+fuzzy matching
 
 
