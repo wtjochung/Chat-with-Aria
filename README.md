@@ -29,7 +29,7 @@ Enable "Show Tutorial upon Startup" to discover what you coud do with Aria.
 
 ## 🔧 How I built it
 
-- I developed the Android app using **Java and Android Studio** 
+- I developed the Android app using **Java and Android Studio** and GUI using XML
 
 - I created a fun and versatile **chatbot** functionality with **fuzzy logic** and **hashing**
 
