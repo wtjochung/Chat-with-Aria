@@ -9,7 +9,6 @@ Chat With Aria is an Android application created for a private client, programme
 
 Type in "music" to have Aria show you what the current top 5 songs are.
 
-
 ➡️ ⚙️ Change user settings
 
 Customize how you want Aria to address you! Choose an avatar of your choosing.
@@ -38,13 +37,13 @@ Enable "Show Tutorial upon Startup" to discover what you coud do with Aria.
 ## 🎨 Design Process
 
 - Client communication
+
 Communicate with the client to understand their needs and requirements. 
-Client requested an Android mobile application that can chat with her and recommend things she could do with her time.
-music, websites, and 
+Client requested a software that can chat with her and recommend things she could do with her time. Her interests are music, anime, and cats.
 
 - UI design & prototyping
 I sketched out the design for each page and user interactions.
 
-I moved on to using a wireframe software to test out the page transitions and interactions, communication with the client to take into account her ideas and suggestions.
+I moved on to using a wireframe software to test out the page transitions and interactions, communication with the client to take into account her ideas and suggestions. Class diagrams and data flow diagrams
 
 
